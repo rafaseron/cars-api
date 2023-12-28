@@ -4,7 +4,7 @@
     "bateria": "300 kWh",
     "potencia": "300 cv",
     "recarga": "12 mins",
-    "urlPhoto": "www.google.com.br"
+    "urlPhoto": "raw.githubusercontent.com/rafaseron/cars-api/main/img/model_y_removebg.png"
     },
 
     {"id": 2,
@@ -12,7 +12,7 @@
     "bateria": "500 kWh",
     "potencia": "480 cv",
     "recarga": "30 mins",
-    "urlPhoto": "www.google.com.br"
+    "urlPhoto": "raw.githubusercontent.com/rafaseron/cars-api/main/img/model_y_removebg.png"
     },
 
     {"id": 3,
@@ -20,7 +20,7 @@
     "bateria": "900 kWh",
     "potencia": "600 cv",
     "recarga": "80 mins",
-    "urlPhoto": "www.google.com.br"
+    "urlPhoto": "raw.githubusercontent.com/rafaseron/cars-api/main/img/model_y_removebg.png"
     },
 
     {"id": 4,
@@ -28,7 +28,7 @@
     "bateria": "1200 kWh",
     "potencia": "780 cv",
     "recarga": "120 mins",
-    "urlPhoto": "www.google.com.br"
+    "urlPhoto": "raw.githubusercontent.com/rafaseron/cars-api/main/img/model_y_removebg.png"
     },
 
 
